@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394699809635",
+    "project_id": "trackle-48049",
+    "storage_bucket": "trackle-48049.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394699809635:android:67a7a1a11dbe299e3ba956",
+        "android_client_info": {
+          "package_name": "com.example.trackle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPfb-E3sJegTP_OCMmdrr1TmsUPzwanR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
